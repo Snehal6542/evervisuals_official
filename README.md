@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Ever Visuals Banner" width="100%">
+</p>
 # Ever Visuals  
 ### Professional Creative Agency & Digital Branding Platform
 
