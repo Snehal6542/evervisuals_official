@@ -1,8 +1,22 @@
 <p align="center">
   <img src="banner.png" alt="Ever Visuals Banner" width="100%">
 </p>
-# Ever Visuals  
-### Professional Creative Agency & Digital Branding Platform
+
+<h1 align="center">Ever Visuals</h1>
+
+<h3 align="center">
+Professional Creative Agency & Digital Branding Platform
+</h3>
+
+<p align="center">
+Creative Branding • Video Editing • Social Media Marketing • Visual Storytelling
+</p>
+
+<p align="center">
+🌐 <a href="https://evervisuals.netlify.app/">Live Website</a>
+</p>
+
+---
 
 A modern high-performance creative agency website engineered for digital branding, visual storytelling, social media marketing, and scalable business presence. Built with a strong focus on immersive UI/UX, responsive architecture, performance optimization, and modern frontend deployment practices.
 
